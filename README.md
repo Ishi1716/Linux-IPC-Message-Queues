@@ -22,11 +22,21 @@ Execute the C Program for the desired output.
 
 ## C program that receives a message from message queue and display them
 
+![image](https://github.com/user-attachments/assets/e9ad76b8-ebd4-4d55-8e83-21e3aefd83f0)
+
+![image](https://github.com/user-attachments/assets/dfd1def3-ea8e-4cdb-9d1f-39cc6bb7eeb8)
+
+
+
 
 
 
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/c926bca1-1bb4-46e4-b3fb-9b2bb0b4ce8f)
+
+
 
 
 
